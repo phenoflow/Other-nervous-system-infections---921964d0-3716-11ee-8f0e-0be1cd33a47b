@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/other-nervous-system-infections-brain---secondary.py
+inputModule3:
+  class: File
+  path: python/other-nervous-system-infections-tuberculosis---secondary.py
+inputModule4:
+  class: File
+  path: python/other-nervous-system-infections-neurosyphilis---secondary.py
+inputModule5:
+  class: File
+  path: python/other-nervous-system-infections-poliomyelitis---secondary.py
+inputModule6:
+  class: File
+  path: python/central-other-nervous-system-infections---secondary.py
+inputModule7:
+  class: File
+  path: python/other-nervous-system-infections-rabies---secondary.py
+inputModule8:
+  class: File
+  path: python/viral-other-nervous-system-infections---secondary.py
+inputModule9:
+  class: File
+  path: python/other-nervous-system-infections---secondary.py
+inputModule10:
+  class: File
+  path: python/other-nervous-system-infections-complication---secondary.py
+inputModule11:
+  class: File
+  path: python/cerebral-other-nervous-system-infections---secondary.py
+inputModule12:
+  class: File
+  path: python/other-nervous-system-infections-meningoencephalitis---secondary.py
+inputModule13:
+  class: File
+  path: python/other-nervous-system-infections-sequelae---secondary.py
+inputModule14:
+  class: File
+  path: python/bacterial-other-nervous-system-infections---secondary.py
+inputModule15:
+  class: File
+  path: python/other-nervous-system-infections-granuloma---secondary.py
+inputModule16:
+  class: File
+  path: python/intraspinal-other-nervous-system-infections---secondary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
